@@ -1,0 +1,115 @@
+/*All pictures used in this code are retreived from https://www.starbucks.com*/
+
+body{
+    background-color: darkgreen;
+    background-image: linear-gradient(green, lightgreen);
+}
+h1{
+    text-align: center;
+
+    border-color: lightgray;
+    color: lightgray
+
+}
+nav>ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+}
+nav>ul>li {
+    float: left;
+    width: 20%;
+    background-color: lightgray
+
+}
+nav ul>li>a {
+    display: block;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
+    padding: 1em;
+    color: black;
+}
+#espresso{
+    color: black;
+    margin-left: 50px;
+}
+#espresso>img {
+    color: lightgray;
+    width: 30%;
+}
+#tea{
+    color: black;
+    margin-right: 50px;
+    text-align: right;
+    margin-top: -300px;
+}
+#tea>img{
+    color: lightgray;
+    width: 30%;
+
+}
+#refreshers{
+    color: black;
+    margin-left: 50px;
+    margin-top: -100px;
+}
+#refreshers>img{
+    color: lightgray;
+    width: 25%;
+
+}
+#fraps{
+    color: black;
+    text-align: right;
+    margin-top: -200px;
+}
+#fraps>img{
+    color: lightgray;
+    width: 35%;
+
+}
+#fraps>h5>span{
+    color: yellow;
+
+}
+#latte{
+    margin-top: 100px;
+}
+#latte>img{
+    width: 25%;
+}
+#macchiato{
+    margin-top: 100px;
+}
+#macchiato>img{
+    width: 25%;
+}
+#mocha{
+    margin-top: 100px;
+}
+#mocha>img{
+    width: 25%;
+}
+#W_mocha{
+    margin-top: 100px;
+}
+#W_mocha>img{
+    width: 25%;
+}
+ #strawb{
+    float: bottom;
+}
+#berry{
+    float: bottom;
+}
+#dragon{
+    float: bottom;
+}
+#pink{
+    float: bottom;
+}
+#dragond{
+    float: bottom;
+}
